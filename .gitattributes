@@ -1,2 +1,2 @@
-src/ThreeDPoseUnityBarracuda-master/ filter=lfs diff=lfs merge=lfs -text
+src/ThreeDPoseUnityBarracuda-master/** filter=lfs diff=lfs merge=lfs -text
 src/Build4/ filter=lfs diff=lfs merge=lfs -text
