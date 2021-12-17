@@ -40,6 +40,8 @@
 ---
 ![웹캠](https://user-images.githubusercontent.com/37354574/146492611-c91e6ec5-a27f-494a-8360-b3432da97af8.gif)
 ![키넥트](https://user-images.githubusercontent.com/37354574/146492382-f37cac79-34b0-4fda-afd3-b0c4b273ecb5.gif)
+![1](https://user-images.githubusercontent.com/37354574/146493636-8309031a-5570-4b41-8e5b-d85c3a9c5031.jpg)
+![2](https://user-images.githubusercontent.com/37354574/146493676-4a068544-76cf-4ab5-ae53-a0206ca575c0.jpg)
 ![키넥트](https://user-images.githubusercontent.com/37354574/146492030-7720e4e6-7d10-4f0e-a674-0e4534042ba4.gif)
 ![웹캠](https://user-images.githubusercontent.com/37354574/146492095-55771ee9-61a8-4463-a591-ce5675dffe80.gif)
 
